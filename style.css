@@ -1,0 +1,24 @@
+h1{
+    font-size: 1em;
+    font-family: sans-serif;
+}
+   
+h2{
+    font-size: 2em;
+    font-weight: lighter;
+    text-overflow: clip;
+    text-transform: capitalize;
+}
+p{
+    font-size: 2em;
+    font-family:serif;
+    font-weight: lighter;
+    word-spacing: 7px;
+    line-height: 30px;
+    color: aquamarine;
+    text-align: justify;
+    font-style:oblique;
+    text-decoration: wavy;
+    font-feature-settings: "abvm";
+    
+}
